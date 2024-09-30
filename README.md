@@ -25,7 +25,6 @@
 | 015  | [springboot桂林旅游景点导游平台(源码+数据库+19000字论文)](https://github.com/3212618475/No15Guilin-tourist-attraction-tour-guide) | https://github.com/3212618475/No15Guilin-tourist-attraction-tour-guide                    |
 | 016  | [springboot+vue电影评论网站系统(源码+数据库+15000字论文)](https://github.com/3212618475/No16Movie-review-website-system) | https://github.com/3212618475/No16Movie-review-website-system               |
 | 017  | [springboot+vue汽车票网上预订系统(源码+数据库+9000字论文)](https://github.com/3212618475/No17Online-booking-system-for-car-tickets) | https://github.com/3212618475/No17Online-booking-system-for-car-tickets              |
-| 018  | [springboot+vue 个人理财系统(源码+数据库+15000字论文)](https://github.com/3212618475/No18Personal-Financial-Management-System)  | 
- https://github.com/3212618475/No18Personal-Financial-Management-System              |                   
+| 018  | [springboot+vue 个人理财系统(源码+数据库+15000字论文)](https://github.com/3212618475/No18Personal-Financial-Management-System) | https://github.com/3212618475/No18Personal-Financial-Management-System              |                
 | 019  | [springboot 论坛网站（带报告）](https://github.com/3212618475/No19Forum-website) | https://github.com/3212618475/No19Forum-website                |
 | 020  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)](https://github.com/3212618475/No20Beautiful-Car-Sales-Website) | https://github.com/3212618475/No20Beautiful-Car-Sales-Website              |
