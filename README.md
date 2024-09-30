@@ -9,22 +9,22 @@
 | 序号 | 项目                                                         | github地址                                                   |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 001  | [springboot 仓库管理系统](https://github.com/3212618475/No1Warehouse-management-system) | https://github.com/3212618475/No1Warehouse-management-system         |
-| 002  | [springboot酒店预订管理管理（10000字论文）](https://github.com/giteecode/spring-boot-hotel-manager-public) | https://github.com/giteecode/spring-boot-hotel-manager-public |
-| 003  | [springboot 超市管理系统(源码+数据库+15000字论文)](https://github.com/giteecode/springboot-thymeleaf-supermarket-system-master-public) | https://github.com/giteecode/springboot-thymeleaf-supermarket-system-master-public |
-| 004  | [springboot+vue 超市管理系统](https://github.com/giteecode/supermarket-vue-public) | https://github.com/giteecode/supermarket-vue-public          |
-| 005  | [springboot 人事oa管理系统](https://github.com/giteecode/oa-public) | https://github.com/giteecode/oa-public                       |
-| 006  | [springboot 房屋租赁系统(15000字文档)](https://github.com/giteecode/houserent-public) | https://github.com/giteecode/houserent-public                |
-| 007  | [springboot 个人博客系统(源码+数据库+9000字论文)](https://github.com/giteecode/My-Blog-master-public) | https://github.com/giteecode/My-Blog-master-public           |
-| 008  | [springboot +vue 宠物交易/租赁系统](https://github.com/giteecode/pettrading-main-public) | https://github.com/giteecode/pettrading-main-public          |
-| 009  | [springboot 宠物医院商城(11000字论文)](https://github.com/giteecode/PetHospital-public) | https://github.com/giteecode/PetHospital-public              |
-| 010  | [springboot 花店商城系统(带2000字文档)](https://github.com/giteecode/SpringbootSchoolShop-public) | https://github.com/giteecode/SpringbootSchoolShop-public     |
-| 011  | [springboot景区旅游系统](https://github.com/giteecode/travel) | https://github.com/giteecode/travel-public                   |
-| 012  | [springboot电影购票系统](https://github.com/giteecode/Movie-Ticket-Purchasing-public) | https://github.com/giteecode/Movie-Ticket-Purchasing-public  |
-| 013  | [springboot网上商城(12000字论文)](https://github.com/giteecode/mall-public) | https://github.com/giteecode/mall-public                     |
-| 014  | [springboot网上商城-仿小米](https://github.com/giteecode/starsea-mall-public) | https://github.com/giteecode/starsea-mall-public             |
-| 015  | [springboot网上商城-仿天猫(源码+数据库+19000字论文)](https://github.com/giteecode/tmall-public) | https://github.com/giteecode/tmall-public                    |
-| 016  | [springboot+vue图书管理系统](https://github.com/giteecode/bookManage-public) | https://github.com/giteecode/bookManage-public               |
-| 017  | [springboot+vue景区旅游系统(源码+数据库+9000字论文)](https://github.com/giteecode/tourismvue-public) | https://github.com/giteecode/tourismvue-public               |
-| 018  | [springboot+vue 基于微信平台的教务管理系统]()                |                                                              |
-| 019  | [springboot 教务管理系统（带报告）](https://github.com/giteecode/edumanage-public) | https://github.com/giteecode/edumanage-public                |
-| 020  | [springboot 教务管理系统](https://github.com/giteecode/edumanage2-public) | https://github.com/giteecode/edumanage2-public               |
+| 002  | [springboot足球社区管理系统（10000字论文）](https://github.com/3212618475/No2Football-Community-Management) | https://github.com/3212618475/No2Football-Community-Management |
+| 003  | [springboot 社区物资交易互助平台(源码+数据库+15000字论文)](https://github.com/3212618475/No3Community-Material-Trading-Mutual-Aid-Platform) | https://github.com/3212618475/No3Community-Material-Trading-Mutual-Aid-Platform |
+| 004  | [springboot+vue 校园失物招领网站(源码+数据库+15000字论文)](https://github.com/3212618475/No4Campus-lost-and-found-website) | https://github.com/3212618475/No4Campus-lost-and-found-website          |
+| 005  | [springboot IT技术交流和分享平台(源码+数据库+15000字论文)](https://github.com/3212618475/No5IT-technology-exchange-and-sharing-platform) | https://github.com/3212618475/No5IT-technology-exchange-and-sharing-platform                      |
+| 006  | [springboot it职业生涯规划系统(源码+数据库+15000字论文)](https://github.com/3212618475/No6IT-Career-Planning-System) | https://github.com/3212618475/No6IT-Career-Planning-System                |
+| 007  | [springboot 新能源充电系统(源码+数据库+9000字论文)](https://github.com/3212618475/No7New-energy-charging-system) | https://github.com/3212618475/No7New-energy-charging-system           |
+| 008  | [springboot +vue 共享书角图书借还管理系统(源码+数据库+15000字论文)](https://github.com/3212618475/No8Shared-Book-Corner-Book-Borrowing-and-Returning-Management-System) | https://github.com/3212618475/No8Shared-Book-Corner-Book-Borrowing-and-Returning-Management-System          |
+| 009  | [springboot 校园求职招聘系统(11000字论文)](https://github.com/3212618475/No9Campus-job-search-and-recruitment-system) | https://github.com/3212618475/No9Campus-job-search-and-recruitment-system              |
+| 010  | [springboot 房屋租赁系统(源码+数据库+9000字论文)](https://github.com/3212618475/No10House-rental-system) | https://github.com/3212618475/No10House-rental-system     |
+| 011  | [springboot景区旅游系统(源码+数据库+9000字论文)](https://github.com/3212618475/No11Travel-website) | https://github.com/3212618475/No11Travel-website                   |
+| 012  | [springboot网上点餐系统(源码+数据库+15000字论文)](https://github.com/3212618475/No12Online-ordering-system) | https://github.com/3212618475/No12Online-ordering-system  |
+| 013  | [springboot阿博图书馆管理系统(源码+数据库+15000字论文)](https://github.com/3212618475/No13Abo-Library-Management-System) | https://github.com/3212618475/No13Abo-Library-Management-System                     |
+| 014  | [springboot高校学科竞赛平台(源码+数据库+15000字论文)](https://github.com/3212618475/No14University-Subject-Competition-Platform) | https://github.com/3212618475/No14University-Subject-Competition-Platform             |
+| 015  | [springboot桂林旅游景点导游平台(源码+数据库+19000字论文)](https://github.com/3212618475/No15Guilin-tourist-attraction-tour-guide) | https://github.com/3212618475/No15Guilin-tourist-attraction-tour-guide                    |
+| 016  | [springboot+vue电影评论网站系统(源码+数据库+15000字论文)](https://github.com/3212618475/No16Movie-review-website-system) | https://github.com/3212618475/No16Movie-review-website-system               |
+| 017  | [springboot+vue汽车票网上预订系统(源码+数据库+9000字论文)](https://github.com/3212618475/No17Online-booking-system-for-car-tickets) | https://github.com/3212618475/No17Online-booking-system-for-car-tickets              |
+| 018  | [springboot+vue 个人理财系统(源码+数据库+15000字论文)](https://github.com/3212618475/No18Personal-Financial-Management-System)  https://github.com/3212618475/No18Personal-Financial-Management-System              |                   
+| 019  | [springboot 论坛网站（带报告）](https://github.com/3212618475/No19Forum-website) | https://github.com/3212618475/No19Forum-website                |
+| 020  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)](https://github.com/3212618475/No20Beautiful-Car-Sales-Website) | https://github.com/3212618475/No20Beautiful-Car-Sales-Website              |
