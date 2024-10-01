@@ -46,8 +46,8 @@
 | 036  | [springboot 图书管理系统（带报告）](https://github.com/3212618475/No36Library-Management-System) | https://github.com/3212618475/No36Library-Management-System                |
 | 037  | [springboot 医院挂号就诊系统（带报告）](https://github.com/3212618475/No37Hospital-registration-and-treatment-system) | https://github.com/3212618475/No37Hospital-registration-and-treatment-system                |
 | 038  | [springboot 客户关系管理系统(crm)（带报告）](https://github.com/3212618475/No38Customer-Relationship-Management-System-CRM-/tree/main) | https://github.com/3212618475/No38Customer-Relationship-Management-System-CRM-/tree/main                |
-| 039  | [springboot 论坛网站（带报告）](https://github.com/3212618475/No19Forum-website) | https://github.com/3212618475/No19Forum-website                |
-| 040  | [springboot 论坛网站（带报告）](https://github.com/3212618475/No19Forum-website) | https://github.com/3212618475/No19Forum-website                |
+| 039  | [springboot 毕业设计系统（带报告）](https://github.com/3212618475/No39Graduation-Design-System) | https://github.com/3212618475/No39Graduation-Design-System                |
+| 040  | [springboot 医疗挂号管理系统（带报告）](https://github.com/3212618475/No40Medical-Registration-Management-System) | https://github.com/3212618475/No40Medical-Registration-Management-System                |
 | 041  | [springboot 论坛网站（带报告）](https://github.com/3212618475/No19Forum-website) | https://github.com/3212618475/No19Forum-website                |
 | 042  | [springboot 论坛网站（带报告）](https://github.com/3212618475/No19Forum-website) | https://github.com/3212618475/No19Forum-website                |
 | 043  | [springboot 论坛网站（带报告）](https://github.com/3212618475/No19Forum-website) | https://github.com/3212618475/No19Forum-website                |
