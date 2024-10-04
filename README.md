@@ -132,24 +132,25 @@
 | 122  | [springboot 大学新生报到系统（源码+数据库）](https://github.com/3212618475/No122University-Freshman-Registration-System) | https://github.com/3212618475/No122University-Freshman-Registration-System                |
 | 123  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](https://github.com/3212618475/No123Information-management-system-for-renowned-contemporary-Chinese-award-winning-writers) | https://github.com/3212618475/No123Information-management-system-for-renowned-contemporary-Chinese-award-winning-writers                |
 | 124  | [springboot 高校危化试剂仓储系统（源码+数据库+12000字论文）](https://github.com/3212618475/No124University-hazardous-chemical-reagent-storage-system ) |  https://github.com/3212618475/No124University-hazardous-chemical-reagent-storage-system |
-| 125  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](           ) |                      |
-| 126  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](           ) |                      |
-| 127  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+14000字论文）](           ) |                      |
-| 128  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](           ) |                      |
-| 129  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](           ) |                      |
-| 131  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+15000字论文）](           ) |                      |
-| 132  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+15000字论文）](           ) |                      |
-| 133  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+15000字论文）](           ) |                      |
-| 134  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+16000字论文）](           ) |                      |
-| 135  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](           ) |                      |
-| 136  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+13000字论文）](           ) |                      |
-| 137  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+16000字论文）](           ) |                      |
-| 138  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+10000字论文）](           ) |                      |
-| 139  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](           ) |                      |
-| 140  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+13000字论文）](           ) |                      |
-| 141  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+14000字论文）](           ) |                      |
-| 142  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+15000字论文）](           ) |                      |
-| 143  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+14000字论文）](           ) |                      |
+| 125  | [springboot 党员学习交流平台（源码+数据库+12000字论文）](https://github.com/3212618475/No125Party-member-learning-and-exchange-platform) | https://github.com/3212618475/No125Party-member-learning-and-exchange-platform|
+| 126  | [springboot 档案管理系统（源码+数据库+12000字论文）](https://github.com/3212618475/No126Archive-Management-System) |https://github.com/3212618475/No126Archive-Management-System|
+| 127  | [springboot 儿童性教育网站](https://github.com/3212618475/No127Children-s-Sex-Education-Website ) |https://github.com/3212618475/No127Children-s-Sex-Education-Website |
+| 128  | [springboot 二手物品交易平台（源码+数据库+12000字论文）](https://github.com/3212618475/No128Second-hand-item-trading ) |https://github.com/3212618475/No128Second-hand-item-trading|
+| 129  | [springboot 高校物品捐赠管理系统(源码+数据库+12000字论文）](https://github.com/3212618475/No129University-Donation-Management-System ) | https://github.com/3212618475/No129University-Donation-Management-System  |
+| 130  | [springboot 房产销售系统（源码+数据库+15000字论文）](https://github.com/3212618475/No130Real-estate-sales-system) | https://github.com/3212618475/No130Real-estate-sales-system  |
+| 131  | [springboot 房屋租赁管理系统（源码+数据库+15000字论文）](https://github.com/3212618475/No131Housing-Rental-Management-System ) | https://github.com/3212618475/No131Housing-Rental-Management-System |
+| 132  | [springboot 房屋租赁系统（源码+数据库+15000字论文）](https://github.com/3212618475/No132House-rental-system) | https://github.com/3212618475/No132House-rental-system  |
+| 133  | [springboot 高校心理教育辅导系统（源码+数据库+15000字论文）]( https://github.com/3212618475/No133College-Psychological-Education-Counseling-System) |https://github.com/3212618475/No133College-Psychological-Education-Counseling-System  |
+| 134  | [springboot 服装生产管理系统（源码+数据库+16000字论文）](https://github.com/3212618475/No134Clothing-Production-Management-System ) | https://github.com/3212618475/No134Clothing-Production-Management-System   |
+| 135  | [springboot 福泰轴承股份有限公司进销存系统（源码+数据库+12000字论文）](https://github.com/3212618475/No135Futai-Bearing-Co.-Ltd.-Inventory-System) | https://github.com/3212618475/No135Futai-Bearing-Co.-Ltd.-Inventory-System |
+| 136  | [springboot 甘肃非物质文化网站（源码+数据库+13000字论文）](https://github.com/3212618475/No136Gansu-Intangible-Cultural-Website ) | https://github.com/3212618475/No136Gansu-Intangible-Cultural-Website  |
+| 137  | [springboot 甘肃旅游服务平台（源码+数据库+16000字论文）](https://github.com/3212618475/NO137Gansu-Tourism-Service-Platform-Code ) | https://github.com/3212618475/NO137Gansu-Tourism-Service-Platform-Code |
+| 138  | [springboot 高校毕业与学位资格审核系统（源码+数据库+10000字论文）](https://github.com/3212618475/No138University-Graduation-and-Degree-Qualification-Review-System) | https://github.com/3212618475/No138University-Graduation-and-Degree-Qualification-Review-System  |
+| 139  | [springboot 高校汉服租赁网站（源码+数据库+12000字论文）](https://github.com/3212618475/No139University-Hanfu-Rental-Website) |https://github.com/3212618475/No139University-Hanfu-Rental-Website |
+| 140  | [springboot 高校教师教研信息填报系统（源码+数据库+13000字论文）]( https://github.com/3212618475/No140University-Teacher-Teaching-and-Research-Information-Filling-System) |   https://github.com/3212618475/No140University-Teacher-Teaching-and-Research-Information-Filling-System |
+| 141  | [springboot 高校竞赛管理系统（源码+数据库+14000字论文）](https://github.com/3212618475/No141University-Competition-Management-System ) | https://github.com/3212618475/No141University-Competition-Management-System |
+| 142  | [springboot 高校科研信息管理系统（源码+数据库+15000字论文）](https://github.com/3212618475/No142University-Research-Information-Management-System ) |  https://github.com/3212618475/No142University-Research-Information-Management-System   |
+| 143  | [springboot 高校实习管理系统（源码+数据库+14000字论文）](https://github.com/3212618475/No143College-Internship-Management-System) | https://github.com/3212618475/No143College-Internship-Management-System    |
 | 144  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](           ) |                      |
 
 
