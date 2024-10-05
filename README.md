@@ -151,7 +151,30 @@
 | 141  | [springboot 高校竞赛管理系统（源码+数据库+14000字论文）](https://github.com/3212618475/No141University-Competition-Management-System ) | https://github.com/3212618475/No141University-Competition-Management-System |
 | 142  | [springboot 高校科研信息管理系统（源码+数据库+15000字论文）](https://github.com/3212618475/No142University-Research-Information-Management-System ) |  https://github.com/3212618475/No142University-Research-Information-Management-System   |
 | 143  | [springboot 高校实习管理系统（源码+数据库+14000字论文）](https://github.com/3212618475/No143College-Internship-Management-System) | https://github.com/3212618475/No143College-Internship-Management-System    |
-| 144  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](           ) |                      |
+| 144  | [springboot 高校宣讲会管理系统（源码+数据库+15000字论文）](https://github.com/3212618475/No144University-Lecture-Management-System) |          https://github.com/3212618475/No144University-Lecture-Management-System |
+| 145  | [springboot 高校学科竞赛平台（源码+数据库+12000字论文）](https://github.com/3212618475/No145University-Subject-Competition-Platform ) |      https://github.com/3212618475/No145University-Subject-Competition-Platform|
+| 146  | [springboot 高校学生饮食推荐系统](https://github.com/3212618475/No146College-Student-Dietary-Recommendation-System) |  https://github.com/3212618475/No146College-Student-Dietary-Recommendation-System |
+| 147  | [springboot 个性化电影推荐系统](https://github.com/3212618475/No147Personalized-movie-recommendation-system) |      https://github.com/3212618475/No147Personalized-movie-recommendation-system|
+| 148  | [springboot 工资信息管理系统（源码+数据库+15000字论文）](https://github.com/3212618475/No148Salary-Information-Management-System) |          https://github.com/3212618475/No148Salary-Information-Management-System |
+| 149  | [springboot 工作量统计系统（源码+数据库+15000字论文）](https://github.com/3212618475/No149Workload-Statistics-System ) | https://github.com/3212618475/No149Workload-Statistics-System |
+| 150  | [springboot 公司资产网站（源码+数据库+13000字论文）](https://github.com/3212618475/No150Company-Asset-Website) | https://github.com/3212618475/No150Company-Asset-Website   |
+| 151  | [springboot 供应商管理系统（源码+数据库+12000字论文）](https://github.com/3212618475/No151Supplier-Management-System ) | https://github.com/3212618475/No151Supplier-Management-System|
+| 152  | [springboot 购物推荐网站（源码+数据库+12000字论文）](https://github.com/3212618475/No152Shopping-recommendation-website) | https://github.com/3212618475/No152Shopping-recommendation-website|
+| 153  | [springboot 古典舞在线交流平台（源码+数据库+15000字论文）](https://github.com/3212618475/No153Classical-Dance-Online-Communication-Platform ) | https://github.com/3212618475/No153Classical-Dance-Online-Communication-Platform |
+| 154  | [springboot 桂林旅游景点导游平台（源码+数据库+11000字论文）](https://github.com/3212618475/No154Guilin-Tourist-Attraction-Tour-Guide-Platform) | https://github.com/3212618475/No154Guilin-Tourist-Attraction-Tour-Guide-Platform |
+| 155  | [springboot 果蔬作物疾病防治系统（源码+数据库+11000字论文）](https://github.com/3212618475/No155Fruit-and-vegetable-crop-disease-prevention-and-control-system ) |  https://github.com/3212618475/No155Fruit-and-vegetable-crop-disease-prevention-and-control-system |
+| 156  | [springboot 海滨体育馆管理系统（源码+数据库+12000字论文）]( https://github.com/3212618475/No156Seaside-Sports-Center-Management-System ) |        https://github.com/3212618475/No156Seaside-Sports-Center-Management-System |
+| 157  | [springboot 航班进出港管理系统（源码+数据库+12000字论文）](https://github.com/3212618475/No157Flight-Entry-and-Exit-Management-System) |        https://github.com/3212618475/No157Flight-Entry-and-Exit-Management-System |
+| 158  | [springboot 滑雪场管理系统（源码+数据库+13000字论文）](https://github.com/3212618475/No158Ski-resort-management-system ) |  https://github.com/3212618475/No158Ski-resort-management-system|
+| 159  | [springboot 画师约稿平台](https://github.com/3212618475/No159Artist-Submission-Platform) | https://github.com/3212618475/No159Artist-Submission-Platform|
+| 160  | [springboot 图书管理系统（源码+数据库+15000字论文）](https://github.com/3212618475/No160Library-Management-System) | https://github.com/3212618475/No160Library-Management-System |
+| 161  | [springboot 医疗病历交互系统（源码+数据库+16000字论文）](https://github.com/3212618475/No161Medical-record-interaction-system) |    https://github.com/3212618475/No161Medical-record-interaction-system |
+| 162  | [springboot 冷链物流系统（源码+数据库+12000字论文）](https://github.com/3212618475/No162Cold-chain-logistics-system) | https://github.com/3212618475/No162Cold-chain-logistics-system |
+| 163  | [springboot 高校固定资产管理系统](https://github.com/3212618475/No163University-Fixed-Asset-Management-System ) |     https://github.com/3212618475/No163University-Fixed-Asset-Management-System |
+| 164  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+10000字论文）](           ) |                      |
+
+
+
 
 
 
