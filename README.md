@@ -171,7 +171,30 @@
 | 161  | [springboot 医疗病历交互系统（源码+数据库+16000字论文）](https://github.com/3212618475/No161Medical-record-interaction-system) |    https://github.com/3212618475/No161Medical-record-interaction-system |
 | 162  | [springboot 冷链物流系统（源码+数据库+12000字论文）](https://github.com/3212618475/No162Cold-chain-logistics-system) | https://github.com/3212618475/No162Cold-chain-logistics-system |
 | 163  | [springboot 高校固定资产管理系统](https://github.com/3212618475/No163University-Fixed-Asset-Management-System ) |     https://github.com/3212618475/No163University-Fixed-Asset-Management-System |
-| 164  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+10000字论文）](           ) |                      |
+| 164  | [springboot 在线英语阅读分级平台（源码+数据库+12000字论文）]( https://github.com/3212618475/No164Online-English-Reading-Grading-Platform) |        https://github.com/3212618475/No164Online-English-Reading-Grading-Platform |
+| 165  | [springboot 项目申报系统（源码+数据库+15000字论文）](https://github.com/3212618475/No165Project-application-system ) |https://github.com/3212618475/No165Project-application-system |
+| 166  | [springboot 大学生考勤系统（源码+数据库+13000字论文）](https://github.com/3212618475/No166College-Student-Attendance-System) | https://github.com/3212618475/No166College-Student-Attendance-System |
+| 167  | [springboot 大创管理系统（源码+数据库+12000字论文）](https://github.com/3212618475/No167Da-Chuang-Management-System ) | https://github.com/3212618475/No167Da-Chuang-Management-System |
+| 168  | [springboot 考试系统]( https://github.com/3212618475/No168examination-System ) | https://github.com/3212618475/No168examination-System   |
+| 169  | [springboot 流浪动物救助平台（源码+数据库+14000字论文）](https://github.com/3212618475/No169Stray-animal-rescue-platform ) | https://github.com/3212618475/No169Stray-animal-rescue-platform |
+| 170  | [springboot 美食信息推荐系统（源码+数据库+16000字论文）](https://github.com/3212618475/No170Food-Information-Recommendation-System ) |        https://github.com/3212618475/No170Food-Information-Recommendation-System |
+| 171  | [springboot 免税商品优选购物商城（源码+数据库+10000字论文）]( https://github.com/3212618475/No171Preferred-duty-free-shopping-mall ) |  https://github.com/3212618475/No171Preferred-duty-free-shopping-mall  |
+| 172  | [springboot 物资综合管理系统（源码+数据库+12000字论文）]( https://github.com/3212618475/No172Integrated-Material-Management-System ) |https://github.com/3212618475/No172Integrated-Material-Management-System |
+| 173  | [springboot 小区物业管理系统（源码+数据库+12000字论文）](https://github.com/3212618475/No173Residential-property-management-system ) |https://github.com/3212618475/No173Residential-property-management-system |
+| 174  | [springboot 综合小区管理系统（源码+数据库+15000字论文）](https://github.com/3212618475/No174Integrated-community-management-system ) | https://github.com/3212618475/No174Integrated-community-management-system |
+| 175  | [springboot 国产动漫网站（源码+数据库+11000字论文）](https://github.com/3212618475/No175Domestic-anime-website ) | https://github.com/3212618475/No175Domestic-anime-website |
+| 176  | [springboot 企业项目管理系统（源码+数据库+12000字论文）](https://github.com/3212618475/No176Enterprise-Project-Management-System ) |         https://github.com/3212618475/No176Enterprise-Project-Management-System |
+| 177  | [springboot 线上历史馆藏系统（源码+数据库+16000字论文）]( https://github.com/3212618475/No177Online-Historical-Collection-System) | https://github.com/3212618475/No177Online-Historical-Collection-System |
+| 178  | [springboot 考试信息报名系统（源码+数据库+15000字论文）](https://github.com/3212618475/No178Exam-Information-Registration-System ) | https://github.com/3212618475/No178Exam-Information-Registration-System |
+| 179  | [springboot 动漫商城管理（源码+数据库+13000字论文）](https://github.com/3212618475/No179Anime-Mall-Management) | https://github.com/3212618475/No179Anime-Mall-Management |
+| 180  | [springboot 自习室管理和预约系统（源码+数据库+13000字论文）]( https://github.com/3212618475/No180Self-study-room-management-and-reservation-system) | https://github.com/3212618475/No180Self-study-room-management-and-reservation-system |
+| 181  | [springboot 红色革命文物征集管理系统（源码+数据库+13000字论文）](https://github.com/3212618475/No181Red-Revolution-Cultural-Relics-Collection-and-Management-System ) |  https://github.com/3212618475/No181Red-Revolution-Cultural-Relics-Collection-and-Management-System  |
+| 182  | [springboot 餐厅点餐管理系统（源码+数据库+12000字论文）](https://github.com/3212618475/No182Restaurant-ordering-management-system) | https://github.com/3212618475/No182Restaurant-ordering-management-system |
+| 183  | [springboot “衣依”服装销售平台（源码+数据库+10000字论文）](https://github.com/3212618475/No183Yiyi-Clothing-Sales-Platform) | https://github.com/3212618475/No183Yiyi-Clothing-Sales-Platform |
+| 184  | [springboot 当代中国获奖的知名作家信息管理系统（源码+数据库+12000字论文）](           ) |                      |
+
+
+
 
 
 
